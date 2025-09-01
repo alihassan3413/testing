@@ -14,7 +14,7 @@ watch(() => route.meta.title, (t) => { if (t) document.title = String(t) })
     <nav class="nav card" aria-label="Main">
       <a href="#/">Home</a>
       <a href="#/memories">Memories</a>
-      <a href="#/game">Play 🎈</a>
+      <a href="#/game">Play</a>
     </nav>
     <router-view />
   </div>
