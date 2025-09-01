@@ -107,8 +107,8 @@ function confettiBurst(){
   <!-- Call-to-action -->
   <section class="grid g2" style="margin-top:24px">
     <a href="#/game" class="card" style="text-align:center; display:block">
-      <h3 style="margin:.2rem 0">Play Balloon Pop 🎈</h3>
-      <p class="caption">Pop them all to unlock a surprise message.</p>
+      <h3 style="margin:.2rem 0">Play Game 🎈</h3>
+      <p class="caption">Enjoy you my little prettiest girl.</p>
     </a>
     <a href="#/memories" class="card" style="text-align:center; display:block">
       <h3 style="margin:.2rem 0">Browse Memories 📸</h3>
