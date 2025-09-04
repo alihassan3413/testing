@@ -15,6 +15,11 @@ export const MEMORIES: Memory[] = [
         title: '9 Dec 2023',
         text: 'She uploaded the stories of herself from androon Lahore and how damn pretty she looks🌻🌷 matches the whole aesthetic vintage vibe of Androon Lahore🤌🏻💜.That simple purple and white colour dress with purple hijab and those black churiyan and that cute little butterfly shaped ring and those yellow and red coloured gajrey 😭😭🌻♥️ like everything just looks perfect on her😭🤌🏻💜.'
     },
+    {
+        img: 'https://static.vecteezy.com/system/resources/previews/039/380/931/non_2x/cute-cartoon-couple-in-love-valentine-s-day-illustration-vector.jpg',
+        title: '16 Dec 2023',
+        text: 'The day i was going through alot due to complications between our group and friends and i’m the one who is getting effected the most even my own friends doesn’t care then there is this Amna🥺 she is one standing there for me listening to all of my problems and condition through which i was going at that time she is the one understanding me listening to me making me feel like “u don’t need to worry it’s going to be alright “ she is the most trusted for me and the level of peace i felt after sharing each and everything with her I can’t explain in words🥺♥️. She is the one who is always there for me🥺♥️🌺.At that day she sent me a message in which she wrote “i know tum uper uper se bn rahe ho kuch ni hota per hota he i know idc logo ke sth kerna mre sth ni” and that message 😭 the way it felt at that particular moment I can’t describe in words😭♥️. There is no one in my entire life like her the way she make me feel the way she listens to me🥺♥️.She is just perfect in her own little ways😭♥️🌺.(MABUT,Ameen)🥺♥️'
+    },
     //   {
     //     // text-only block, no image:
     //     title: '16 Dec 2023',
